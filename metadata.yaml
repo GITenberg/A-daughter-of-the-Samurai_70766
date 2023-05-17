@@ -1,0 +1,27 @@
+_repo: A-daughter-of-the-Samurai_70766
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sugimoto, Etsu Inagaki
+    gutenberg_agent_id: '55912'
+    url: http://www.gutenberg.org/2009/agents/55912
+description: ''
+gutenberg_issued: '2023-05-15'
+identifiers:
+  gutenberg: '70766'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc1.53425&view=1up&seq=9
+pgterms:marc905: 20210102110348sugimoto
+pgterms:marc906: '1925'
+pgterms:marc907: us
+production_note: Emmanuel Ackerman, Graeme Mackreth and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bDoubleday, Page & Company, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A daughter of the Samurai
+url: http://www.gutenberg.org/ebooks/70766
